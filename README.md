@@ -1,2 +1,2 @@
 # tictactoe
-This is demo game for android using expo
+This is demo game for android using !expo
